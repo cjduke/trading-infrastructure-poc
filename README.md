@@ -10,7 +10,7 @@ The system is built on strict separation of concerns:
 *   **Ports:** Interfaces (`MarketDataProvider`, `BarRepository`, `BarReader`, `IndicatorRepository`, `RunTracker`, `InstrumentCache`) define the boundaries.
 *   **Adapters:** Implementations for Yahoo Finance (REST), QuestDB (Time-Series JDBC), and PostgreSQL (Relational/Audit).
 *   **Patterns Used:** Hexagonal Architecture, Adapter, Repository, Builder (for immutable domain objects), Dependency Injection.
-*   **All UML Design and ER Diagram documents including an Overall Design presentation document are in '/docs/'.
+*   **All UML Design and ER Diagram documents including an Overall Design presentation document are in `/docs/`.
 
 ## 🛢️ Database Design
 The system uses a dual-database approach to separate transactional state from high-volume time-series data:
