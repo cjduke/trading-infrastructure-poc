@@ -1,0 +1,15 @@
+com\systemictrader\adapters\PostgresInstrumentCache.class
+com\systemictrader\adapters\QuestDBBarRepository.class
+com\systemictrader\domain\Bar.class
+com\systemictrader\ports\RunTracker.class
+com\systemictrader\ports\MarketDataProvider.class
+com\systemictrader\tradingengine\TradingEngineApplication.class
+com\systemictrader\adapters\YahooBarProvider.class
+com\systemictrader\adapters\YahooJsonParser.class
+com\systemictrader\ports\InstrumentCache.class
+com\systemictrader\adapters\PostgresRunTracker.class
+com\systemictrader\core\IngestionService.class
+com\systemictrader\config\EngineConfig.class
+com\systemictrader\domain\Bar$Builder.class
+com\systemictrader\ports\BarRepository.class
+com\systemictrader\domain\RawBar.class

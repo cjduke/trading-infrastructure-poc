@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: trading-engine
+
+engine:
+  databases:
+    postgres:
+      url: "jdbc:postgresql://localhost:5432/traders"
+      username: "postgres"
+      password: "xvvrz0mt" # <--- UPDATE THIS
+    questdb:
+      url: "jdbc:postgresql://localhost:8812/qdb"
+      username: "admin"
+      password: "quest"

@@ -1,0 +1,14 @@
+C:\Users\USER\Documents\projects\POC\components\Java\trading-engine\src\main\java\com\systemictrader\adapters\PostgresInstrumentCache.java
+C:\Users\USER\Documents\projects\POC\components\Java\trading-engine\src\main\java\com\systemictrader\adapters\PostgresRunTracker.java
+C:\Users\USER\Documents\projects\POC\components\Java\trading-engine\src\main\java\com\systemictrader\adapters\QuestDBBarRepository.java
+C:\Users\USER\Documents\projects\POC\components\Java\trading-engine\src\main\java\com\systemictrader\adapters\YahooBarProvider.java
+C:\Users\USER\Documents\projects\POC\components\Java\trading-engine\src\main\java\com\systemictrader\adapters\YahooJsonParser.java
+C:\Users\USER\Documents\projects\POC\components\Java\trading-engine\src\main\java\com\systemictrader\config\EngineConfig.java
+C:\Users\USER\Documents\projects\POC\components\Java\trading-engine\src\main\java\com\systemictrader\core\IngestionService.java
+C:\Users\USER\Documents\projects\POC\components\Java\trading-engine\src\main\java\com\systemictrader\domain\Bar.java
+C:\Users\USER\Documents\projects\POC\components\Java\trading-engine\src\main\java\com\systemictrader\domain\RawBar.java
+C:\Users\USER\Documents\projects\POC\components\Java\trading-engine\src\main\java\com\systemictrader\ports\BarRepository.java
+C:\Users\USER\Documents\projects\POC\components\Java\trading-engine\src\main\java\com\systemictrader\ports\InstrumentCache.java
+C:\Users\USER\Documents\projects\POC\components\Java\trading-engine\src\main\java\com\systemictrader\ports\MarketDataProvider.java
+C:\Users\USER\Documents\projects\POC\components\Java\trading-engine\src\main\java\com\systemictrader\ports\RunTracker.java
+C:\Users\USER\Documents\projects\POC\components\Java\trading-engine\src\main\java\com\systemictrader\tradingengine\TradingEngineApplication.java
